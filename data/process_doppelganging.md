@@ -52,3 +52,6 @@
 ### NtCreateThreadEx
 ![image](https://github.com/t0m-sec/cs-study-public/assets/137173407/387f1a6a-5433-4259-98bf-80e98ca58a3e)
 ![image](https://github.com/t0m-sec/cs-study-public/assets/137173407/eae78516-411a-473c-828a-3670ce3998e4)
+
+### Result
+![image](https://github.com/t0m-sec/cs-study-public/assets/137173407/d8df090c-b241-4f1c-9fa7-8a248d18f53c)
